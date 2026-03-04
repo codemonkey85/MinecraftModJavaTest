@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.class
+
+# NeoForge / MDK
+run/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db

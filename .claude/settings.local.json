@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:feedback.minecraft.net)",
+      "WebSearch",
+      "WebFetch(domain:minecraft.wiki)",
+      "WebFetch(domain:neoforged.net)",
+      "WebFetch(domain:maven.neoforged.net)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(curl:*)"
+    ]
+  }
+}
